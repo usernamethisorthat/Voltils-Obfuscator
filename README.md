@@ -1,12 +1,12 @@
-# ThornVe Obfuscation
+# Voltils Obfuscation
 A Lua 5.1 / Luau Obfuscator 🔒
 
-*Discord server:* [ThornVe](https://discord.gg/78yYmtaeg4)
+*Discord server:* [Voltils](https://discord.gg/78yYmtaeg4)
 -
 
-**About ThornVe**
+**About Voltils**
 
-ThornVe is a **mid–high tier free obfuscator** designed for Lua 5.1 and Luau. It focuses on strong protection, daily updates, and a smooth developer experience.
+Voltils is a **mid–high tier free obfuscator** designed for Lua 5.1 and Luau. It focuses on strong protection, daily updates, and a smooth developer experience.
 
 You can quickly obfuscate code using:
 
@@ -22,13 +22,13 @@ We also include built‑in **anti‑tamper** and **anti‑env‑logger**.
 
 Your code is **never stored.**
 *It is processed only for obfuscation and then deleted shortly after.*
-*We have no interest in collecting or reusing user code, our goal is to make ThornVe as strong and reliable as possible for everyone.*
+*We have no interest in collecting or reusing user code, our goal is to make Voltils as strong and reliable as possible for everyone.*
 
 ——————————————————————————————————————————
 -
 **Obfuscation Sample**
 
-ThornVe‑obfuscated version of source/example.lua included in this repository.
+Voltils‑obfuscated version of source/example.lua included in this repository.
 
 
 
