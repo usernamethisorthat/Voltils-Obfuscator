@@ -2,6 +2,7 @@
 A Lua 5.1 / Luau Obfuscator 🔒
 
 *Discord server:* [Voltils](https://discord.gg/78yYmtaeg4)
+*Websit:* https://voltils.cc/obfuscate
 -
 
 **About Voltils**
